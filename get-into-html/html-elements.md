@@ -5,23 +5,47 @@
 -   Browsers do not display the HTML tags, But Tags labled content for page structure such as "heading", "paragraph", "table", etc.
 -   Tags normally come in pair, they have same name, but the end tag always start with a extra "/".
 
-![tags](../gitbook/assets/close-opened-tags-first.png)
+![tagsample](../.gitbook/assets/simple-p-tag.png)
+
+-   Tags should be closed properly, before you start work on next tag, you have to close the current one. (There is some exceptions, see [Open Tags](<>).)
+
+![tagformat](../.gitbook/assets/close-opened-tags-first.png "tags")
 
 > HTML elements is everything from the _**start tag**_ to the _**end tag**_. They used for group and labelling the context, define and render the content to text.
 >
-> > Format: **`<starttag>`**`content`**`</endtag>`**
+>  Format: **`<starttag>`**`content`**`</endtag>`**
+>
+> > eg:
+> >
+> > ```HTML
+> > <body>......</body>
+> > <p>......</p>
+> > <div>......</div>
+> > <b>......</b>
+> > ```
 
 Tags normally come in pair, they have same name, but the end tag always start with a extra "/".
 
 > Format: **`<tagname attribute>`**`content`**`</tagname>`**
 > Open Tag Format: **`<tagename....../>`**
+>
+> > eg:
+> >
+> > ```HTML
+> > <br />
+> > <img src="..." />
+> > <input type="..." />
+> > ```
+
+#### 2.1.1.
 
 ## 2.2.HTML Attribute
 
 > -   **A tag could contain many attribute inside.**  
 > -   Always use **quotation mark** to wrap up the _**value**_ content in HTML Attribute.
->         > Format: `<tagname`**`name="value">`**`content</tagname>`
->     #### 2.2.1 The `lang` Attribute
+>     > Format: `<tagname`**`name="value">`**`content</tagname>`
+>
+> #### 2.2.1 The `lang` Attribute
 
 The **language** of the document can be declared in the `<html>` tag. The language is declared with the `lang` attribute.
 
