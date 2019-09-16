@@ -182,7 +182,7 @@ New `<body>` Elements in HTML5:
 *  `<header>` is used to contain the content that appears at the top of every page of your website.
 >     eg：the logo, tagline, search prompt,  a navigational menu,etc.
 >     
-> > ```HTML
+> ```HTML
 > <!DOCTYPE HTML>
 > <html lang=“en”>
 >        <head>
