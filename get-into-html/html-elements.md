@@ -46,7 +46,7 @@ Tags normally come in pair, they have same name, but the end tag always start wi
 
 ### 2.1.1. HTML ROOT TAGS
 
-![htmlstr1](./IMG_2126.PNG “html5structure” )
+![htmlstru](../.gitbook/assets/A902D33D-A98F-4DEA-B372-6C30C496C979.png)
 
 ``` HTML
 <!DOCTYPE HTML>
