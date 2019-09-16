@@ -12,4 +12,5 @@
 
 -   [README(this page)](README.md)
 -   [1. HTML Basic Structure](get-into-html/html-basics.md)
--   [2. HTML Elements (Tags, Attributes,...)](get-into-html/html-elements.md)
+-   [2.1 HTML Elements —- Tags](get-into-html/html-elements.md)
+-   [2.2 HTML Elements —- Attributes](get-into-html/html-attributes.md)
